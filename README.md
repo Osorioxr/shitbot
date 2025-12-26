@@ -1,0 +1,2 @@
+# shitbot
+Cazador de tendencias
